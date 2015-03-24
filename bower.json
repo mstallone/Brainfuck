@@ -6,6 +6,7 @@
     "foundation": "zurb/bower-foundation",
     "jquery-timeago": "~1.4.1",
     "fontawesome": "~4.3.0",
-    "js-url": "~1.8.6"
+    "js-url": "~1.8.6",
+    "sweetalert": "~0.5.0"
   }
 }
