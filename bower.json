@@ -1,0 +1,11 @@
+{
+  "name": "foundation-compass-app",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "jquery-timeago": "~1.4.1",
+    "fontawesome": "~4.3.0",
+    "js-url": "~1.8.6"
+  }
+}
